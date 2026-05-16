@@ -32,5 +32,5 @@ Start server before client
 Works on localhost (127.0.0.1)
 Uses port 5000
 👩‍💻 Developer
-Bottu Amulya
+Brahmanakaka sreeja
 Python Developer | AI & Automation Enthusiast
